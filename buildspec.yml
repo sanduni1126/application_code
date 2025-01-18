@@ -5,7 +5,7 @@ phases:
     runtime-versions:
       nodejs: 20
     commands:
-      - cd "/home/Users/Acer/Desktop/campus pdf/cloud Infrastructure/Repository"
+      - cd "C:\Users\Acer\Desktop\campus pdf\cloud Infrastructure\Repository"
       - npm install
 
   build:
