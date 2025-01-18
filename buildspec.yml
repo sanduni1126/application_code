@@ -5,7 +5,7 @@ phases:
     runtime-versions:
       nodejs: 20
     commands:
-      - cd C:\Users\Acer\Desktop\campus pdf\cloud Infrastructure\node_modules\object-inspect
+      - cd "/home/Acer/Desktop/campus pdf/cloud Infrastructure/node_modules/object-inspect"
       - npm install
 
   build:
