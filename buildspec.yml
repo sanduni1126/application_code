@@ -1,11 +1,10 @@
 version: 0.2
-
 phases:
   install:
-    runtime-versions:
-      nodejs: 20
     commands:
+      - cd C:\Users\Acer
       - npm install
+
 
   build:
     commands:
