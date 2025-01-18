@@ -2,7 +2,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - cd C:\Users\Acer
+      - cd "C:\Users\Acer"  
       - npm install
 
 
